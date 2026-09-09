@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nivethat-seo-ai-strategist.github.io/sitemap.xml
