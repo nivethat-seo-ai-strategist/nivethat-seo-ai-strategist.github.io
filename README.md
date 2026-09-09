@@ -1,1 +1,1 @@
-# nivethat123.github.io
+# nivethat-seo-ai-strategist.github.io
